@@ -37,6 +37,11 @@
 			"Name": "VaRest",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
+		},
+		{
+			"Name": "ProductivityTools",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8beef99c4399462189d66689e2b48475"
 		}
 	]
 }
