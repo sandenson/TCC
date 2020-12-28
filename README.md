@@ -1,3 +1,3 @@
 # "TCC"
 
-Um projeto pessoal que eu e uns amigos estamos fazendo pra praticar UE4.
+Um projeto pessoal que estamos fazendo pra praticar UE4.
